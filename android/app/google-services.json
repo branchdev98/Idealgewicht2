@@ -1,0 +1,227 @@
+{
+  "project_info": {
+    "project_number": "106927212254",
+    "firebase_url": "https://vtmapp-1f02a.firebaseio.com",
+    "project_id": "vtmapp-1f02a",
+    "storage_bucket": "vtmapp-1f02a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106927212254:android:39bf34bae2e6a346d4244f",
+        "android_client_info": {
+          "package_name": "com.vtmapp.Idealgewicht"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "106927212254-s8l1gt00t0toajrblkcjh30q70dkf1pp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArUSzjiq7BaUdCHXNmwCJcBrwpGifpw0M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "106927212254-s8l1gt00t0toajrblkcjh30q70dkf1pp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "106927212254-40v974ev09r3alb6sac8dtijcu2vratb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.vtmapp.Idealgewicht"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106927212254:android:ed293b31970c8a1dd4244f",
+        "android_client_info": {
+          "package_name": "com.vtmapp.Idealgewicht"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "106927212254-s8l1gt00t0toajrblkcjh30q70dkf1pp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArUSzjiq7BaUdCHXNmwCJcBrwpGifpw0M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "106927212254-s8l1gt00t0toajrblkcjh30q70dkf1pp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "106927212254-40v974ev09r3alb6sac8dtijcu2vratb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.vtmapp.Idealgewicht"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106927212254:android:5536c482dd6188b1d4244f",
+        "android_client_info": {
+          "package_name": "com.vtmapp.Idealgewicht"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "106927212254-s8l1gt00t0toajrblkcjh30q70dkf1pp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArUSzjiq7BaUdCHXNmwCJcBrwpGifpw0M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "106927212254-s8l1gt00t0toajrblkcjh30q70dkf1pp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "106927212254-40v974ev09r3alb6sac8dtijcu2vratb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.vtmapp.Idealgewicht"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106927212254:android:23f5a6c28b5c1614d4244f",
+        "android_client_info": {
+          "package_name": "com.vtmapp.Idealgewicht"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "106927212254-s8l1gt00t0toajrblkcjh30q70dkf1pp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArUSzjiq7BaUdCHXNmwCJcBrwpGifpw0M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "106927212254-s8l1gt00t0toajrblkcjh30q70dkf1pp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "106927212254-40v974ev09r3alb6sac8dtijcu2vratb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.vtmapp.Idealgewicht"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106927212254:android:7eeced2ea544cf3bd4244f",
+        "android_client_info": {
+          "package_name": "com.vtmapp.Idealgewicht"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "106927212254-s8l1gt00t0toajrblkcjh30q70dkf1pp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArUSzjiq7BaUdCHXNmwCJcBrwpGifpw0M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "106927212254-s8l1gt00t0toajrblkcjh30q70dkf1pp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "106927212254-40v974ev09r3alb6sac8dtijcu2vratb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.vtmapp.Idealgewicht"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106927212254:android:f3a8afa038aa5d13d4244f",
+        "android_client_info": {
+          "package_name": "com.vtmapp.Idealgewicht"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "106927212254-s8l1gt00t0toajrblkcjh30q70dkf1pp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArUSzjiq7BaUdCHXNmwCJcBrwpGifpw0M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "106927212254-s8l1gt00t0toajrblkcjh30q70dkf1pp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "106927212254-40v974ev09r3alb6sac8dtijcu2vratb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.vtmapp.Idealgewicht"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

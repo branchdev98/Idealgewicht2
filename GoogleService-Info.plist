@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>106927212254-uscnc8ga93427b2n1qsfhckkid1se60d.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.106927212254-uscnc8ga93427b2n1qsfhckkid1se60d</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB_0KUiD71eFqGQttxPAXne7kSBOAnKJgI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>106927212254</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.vtmapp.vtm</string>
+	<key>PROJECT_ID</key>
+	<string>vtmapp-1f02a</string>
+	<key>STORAGE_BUCKET</key>
+	<string>vtmapp-1f02a.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:106927212254:ios:4532dc8999d5170bd4244f</string>
+	<key>DATABASE_URL</key>
+	<string>https://vtmapp-1f02a.firebaseio.com</string>
+</dict>
+</plist>
